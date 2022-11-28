@@ -1,7 +1,7 @@
-from app_store.app_store_reviews_reader import AppStoreReviewsReader
-from google_play_scraper import Sort, reviews_all
-import pycountry
-import pandas as pd
+# from app_store.app_store_reviews_reader import AppStoreReviewsReader
+# from google_play_scraper import Sort, reviews_all
+# import pycountry
+# import pandas as pd
 
 
 
