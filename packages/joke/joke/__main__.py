@@ -1,6 +1,6 @@
 #import pyjokes
 # import pandas as pd
-from fetch_data import get_data
+# from fetch_data import get_data
 
 # def main(args):
 #   joke = pyjokes.get_joke()
@@ -11,4 +11,7 @@ from fetch_data import get_data
 #     }
 #   }
 
-get_data
+def main(args):
+    return {
+        'text': "Hi"
+    }
