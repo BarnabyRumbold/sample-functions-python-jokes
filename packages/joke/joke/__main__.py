@@ -11,11 +11,10 @@ from fetch_data import get_data
 #     }
 #   }
 
-# def main(args):
-#     return {
-#       'body': {
-#          'text': "Hi"
-#       }
-#     }
+def main(args):
+    return {
+      'body': {
+         'text': get_data
+      }
+    }
 
-get_data
