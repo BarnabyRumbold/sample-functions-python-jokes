@@ -13,5 +13,7 @@
 
 def main(args):
     return {
-        'text': "Hi"
+      'body': {
+         'text': "Hi"
+      }
     }
