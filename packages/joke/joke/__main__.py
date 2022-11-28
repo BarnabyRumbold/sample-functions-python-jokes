@@ -1,4 +1,4 @@
-import pyjokes
+#import pyjokes
 import pandas as pd
 from fetch_data import get_data
 
