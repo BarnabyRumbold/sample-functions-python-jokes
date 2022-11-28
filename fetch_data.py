@@ -11,8 +11,8 @@
 # path=her_path
 
 
-def get_data():
-    x = "hi"
+# def get_data():
+#     x = "hi"
     # top_countries=["es","br","us","co","de", "fr","gn","it","nl","pt"]
     # df=pd.DataFrame()
     # for lan in top_countries:
@@ -44,5 +44,5 @@ def get_data():
     # data=pd.DataFrame(reviews_list)
     # data_apple =data.rename(columns={"version":"App Version Name","rating": "Star Rating", "title":"Review Title","content": "Review Text","date":"Review Submit Date and Time"})[["App Version Name","Star Rating","Review Title","Review Text", "country", "Review Submit Date and Time", "id"]]
     # data = pd.concat([data_apple, df])
-    return(x)
+    # return(x)
 # data.to_csv(path+"data.csv")
